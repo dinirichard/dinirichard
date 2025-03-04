@@ -25,7 +25,6 @@
 ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 
 ###
@@ -38,13 +37,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dinirichard/dinirichard/output/snake.svg" alt="Snake animation" />
 
 ###
 
